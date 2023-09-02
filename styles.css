@@ -1,0 +1,25 @@
+body{
+    background-color: #F8F0E5;
+}
+
+.homepagemenu{
+    text-align: center;
+    font-size: 30px;
+    list-style-type: inside;
+}
+
+.top-bar,
+.bottom-bar{
+    background-color: #DAC0A3;
+    text-align: center;
+}
+
+.img-recipe{
+    height: 700px;
+    width: auto;
+    display: block;
+}
+
+.content-recipe{
+    background-color: #EADBC8;
+}
