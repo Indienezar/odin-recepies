@@ -8,3 +8,4 @@ That would include:
 - Ordered and unordered lists
 - Anchors to new page
 - Images
+- Basic CSS
